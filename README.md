@@ -1,2 +1,4 @@
 # Java
 java代码们 0.0
+
+2048applet --javaapplet 编写2048小游戏 
